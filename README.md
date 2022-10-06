@@ -7,7 +7,7 @@ Script ini gratis untuk semua orang, bukan untuk Dijual. Jika dijual neraka menu
 </p>
 <h1 align="center">ZennBot - MD</h1>
 <p align="center">
-  <a href="https://github.com/LORD-Zenix"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=Elaina+BOT+Multi+Device;Base+ori+by+BochilGaming;Recode+By+NandaXPLOIT;Give+star+and+forks+this+Repo+:D;Follow+My+Github" alt="ʘᴗʘ">
+  <a href="https://github.com/LORD-Zenix"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=Zenn+BOT+Multi+Device;Base+ori+by+BochilGaming;Recode+By+NandaXPLOIT;Give+star+and+forks+this+Repo+:D;Follow+My+Github" alt="ʘᴗʘ">
 </p>
 
 <p align="center">
@@ -61,9 +61,9 @@ Script ini gratis untuk semua orang, bukan untuk Dijual. Jika dijual neraka menu
 
 ## `SETTING` ⚙️
 
-- Owner Number [Here](https://github.com/ImYanXiao/Elaina-MultiDevice/blob/master/config.js#L1)
-- Owner Name [Here](https://github.com/ImYanXiao/Elaina-Multidevice/blob/master/config.js#L1)
-- Bot Name [Here](https://github.com/ImYanXiao/Elaina-Multidevice/blob/master/config.js#L1)
+- Owner Number [Here](https://github.com/LORD-Zenix/ZennBot-MultiDevice/blob/master/config.js#L1)
+- Owner Name [Here](https://github.com/LORD-Zenix/ZennBot-MultiDevice/blob/master/config.js#L1)
+- Bot Name [Here](https://github.com/LORD-Zenix/ZennBot-MultiDevice/blob/master/config.js#L1)
 ---------
 
 ## ```Heroku Buildpack```
